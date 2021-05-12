@@ -5,7 +5,7 @@ A three level platformer game with a map editor.
 
 
 game controlls:
-w, a, s, d - for movement
-r - restart level
-m - go back to title screen
-esc - exit game
+w, a, s, d - for movement,
+r - restart level,
+m - go back to title screen,
+esc - exit game.
